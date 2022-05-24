@@ -1,0 +1,14 @@
+{
+  "name": "wprowadzenie",
+  "version": "1.0.0",
+  "description": "szkola reacta",
+  "main": "time.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now": "node time.js"
+  },
+  "author": "Sara",
+  "license": "ISC"
+}
